@@ -35,6 +35,10 @@ module.exports = {
                         {
                             text: "Canvas",
                             link: "/guide/canvas",
+                        },
+                        {
+                            text: "技术分享",
+                            link: "/guide/share",
                         }
                     ],
                 }
