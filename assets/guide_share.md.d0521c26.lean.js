@@ -1,1 +1,0 @@
-import{_ as E,c as B,o as A,a}from"./app.ff5e2012.js";const F=JSON.parse('{"title":"技术分享","description":"","frontmatter":{},"headers":[],"relativePath":"guide/share.md","lastUpdated":1676452091000}'),e={name:"guide/share.md"},i=a("",2),d=[i];function l(f,r,s,t,p,_){return A(),B("div",null,d)}const o=E(e,[["render",l]]);export{F as __pageData,o as default};
