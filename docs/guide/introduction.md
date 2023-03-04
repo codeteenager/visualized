@@ -126,3 +126,6 @@
 而在实际项目中我们可能使用更多的是最上层的可视化的图形库，例如Highcharts、Echarts、AntV，它们的内部已经把不同的可视化展示绘制操作都提前实现了，我们只需要进行相应的api调用即可。同时它们提供了更好的交互以及展示动画，
 
 如果我们想深入研究可视化的实现，那就需要从Canvas、Svg、WebGL的使用开始研究。
+
+## 数据大屏
+* [DataV](https://github.com/DataV-Team/DataV)
